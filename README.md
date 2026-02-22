@@ -11,7 +11,7 @@ Website ini dirancang untuk menampilkan profil institusi, area praktik, layanan 
 > **Perhatian:**  
 > Untuk saat ini, versi website ini masih dalam bentuk **HTML Statis murni** (menggunakan Tailwind CSS via CDN dan JavaScript murni untuk interaktivitas).
 
-Proyek ini sedang dalam tahap pembangunan aktif untuk dilanjutkan ke tahap pengembangan berikutnya.
+Proyek ini sedang dalam tahap pengembangan berikutnya.
 
 ### Rencana Pengembangan
 
