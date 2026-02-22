@@ -1,81 +1,87 @@
-Feradi WPI - Forum Era Adil Warung Paralegal Indonesia
+# Feradi WPI - Forum Era Adil Warung Paralegal Indonesia
 
-Selamat datang di repositori website resmi Feradi WPI (Forum Era Adil Warung Paralegal Indonesia) & Subur Jaya Law Firm. Website ini dirancang untuk menampilkan profil institusi, area praktik, layanan bantuan hukum, serta memberikan akses mudah bagi calon klien untuk berkonsultasi.
+Selamat datang di repositori website resmi **Feradi WPI (Forum Era Adil Warung Paralegal Indonesia)** & **Subur Jaya Law Firm**.  
 
-🚧 Status Proyek Saat Ini
+Website ini dirancang untuk menampilkan profil institusi, area praktik, layanan bantuan hukum, serta memberikan akses mudah bagi calon klien untuk berkonsultasi.
 
-Perhatian: Untuk saat ini, versi website ini masih dalam bentuk HTML Statis murni (menggunakan Tailwind CSS via CDN dan JavaScript murni untuk interaktivitas).
+---
 
-Proyek ini sedang dalam tahap pembangunan aktif untuk dilanjutkan ke tahap pengembangan berikutnya. Rencana pengembangan ke depan mungkin mencakup:
+## Status Proyek Saat Ini
 
-Integrasi dengan framework modern (seperti React, Next.js, atau Laravel).
+> **Perhatian:**  
+> Untuk saat ini, versi website ini masih dalam bentuk **HTML Statis murni** (menggunakan Tailwind CSS via CDN dan JavaScript murni untuk interaktivitas).
 
-Pembuatan backend untuk memproses formulir kontak/konsultasi.
+Proyek ini sedang dalam tahap pembangunan aktif untuk dilanjutkan ke tahap pengembangan berikutnya.
 
-Integrasi CMS (Content Management System) untuk pembaruan berita/artikel secara dinamis.
+### Rencana Pengembangan
 
-Optimasi aset dan SEO tingkat lanjut.
+Rencana pengembangan ke depan mungkin mencakup:
 
-✨ Fitur & Seksi yang Tersedia (Versi HTML)
+- Integrasi dengan framework modern (seperti React, Next.js, atau Laravel)
+- Pembuatan backend untuk memproses formulir kontak/konsultasi
+- Integrasi CMS (Content Management System) untuk pembaruan berita/artikel secara dinamis
+- Optimasi aset dan SEO tingkat lanjut
 
-Hero Section: Desain modern dengan latar belakang abstrak dan Call-to-Action (CTA).
+---
 
-Statistik: Menampilkan data rasio kemenangan, jumlah kantor, dll.
+## Fitur & Seksi yang Tersedia (Versi HTML)
 
-Profil Institusi (Tentang Kami): Penjelasan mengenai sinergi Feradi WPI dan Subur Jaya Law Firm beserta profil pendiri.
+- **Hero Section**  
+  Desain modern dengan latar belakang abstrak dan Call-to-Action (CTA).
 
-Area Praktik & Layanan: Rincian spesialisasi hukum dan ruang lingkup bantuan hukum.
+- **Statistik**  
+  Menampilkan data rasio kemenangan, jumlah kantor, dan pencapaian lainnya.
 
-Metodologi (Proses Kerja): Alur 4 langkah dari evaluasi hingga resolusi tuntas.
+- **Profil Institusi (Tentang Kami)**  
+  Penjelasan mengenai sinergi Feradi WPI dan Subur Jaya Law Firm beserta profil pendiri.
 
-Nilai Inti (Keunggulan): Empat pilar kepercayaan firma.
+- **Area Praktik & Layanan**  
+  Rincian spesialisasi hukum dan ruang lingkup bantuan hukum.
 
-Testimoni Klien: Bukti dedikasi dalam bentuk ulasan klien.
+- **Metodologi (Proses Kerja)**  
+  Alur 4 langkah dari evaluasi hingga resolusi tuntas.
 
-FAQ (Pertanyaan Umum): Akordion interaktif untuk menjawab pertanyaan seputar layanan.
+- **Nilai Inti (Keunggulan)**  
+  Empat pilar kepercayaan firma.
 
-Formulir Konsultasi & Kontak: Formulir interaktif yang otomatis mengarahkan klien ke WhatsApp admin.
+- **Testimoni Klien**  
+  Bukti dedikasi dalam bentuk ulasan klien.
 
-Modals: Pop-up untuk "Ketentuan Layanan" dan "Kebijakan Privasi".
+- **FAQ (Pertanyaan Umum)**  
+  Akordion interaktif untuk menjawab pertanyaan seputar layanan.
 
-🛠️ Teknologi yang Digunakan
+- **Formulir Konsultasi & Kontak**  
+  Formulir interaktif yang otomatis mengarahkan klien ke WhatsApp admin.
+
+- **Modals**  
+  Pop-up untuk:
+  - Ketentuan Layanan  
+  - Kebijakan Privasi  
+
+---
+
+## Teknologi yang Digunakan
 
 Pada tahap awal ini, website dibangun menggunakan:
 
-HTML5 & CSS3
+- **HTML5 & CSS3**
+- **Tailwind CSS** (via CDN untuk rapid prototyping)
+- **Vanilla JavaScript**  
+  (untuk toggle menu mobile, efek scroll navbar, FAQ, dan modals)
+- **Google Fonts (Inter)**
+- **FontAwesome** (untuk ikon SVG)
 
-Tailwind CSS (via CDN untuk rapid prototyping)
+---
 
-Vanilla JavaScript (untuk toggle menu mobile, efek scroll navbar, FAQ, dan Modals)
+## Jaringan Afiliasi
 
-Google Fonts (Inter)
+- Feradi WPI  
+- Subur Jaya Law Firm  
+- Kawan Jari News  
+- PMBI  
+- PT Dahono Consulting Agency  
 
-FontAwesome (untuk ikon SVG)
+---
 
-🚀 Cara Menjalankan Secara Lokal
-
-Karena proyek ini saat ini adalah HTML statis, Anda dapat menjalankannya dengan sangat mudah:
-
-Cara Sederhana:
-Buka file index.html langsung di browser web Anda (Chrome, Firefox, Safari, dll).
-
-Menggunakan Live Server (Disarankan untuk development):
-Jika Anda menggunakan VS Code, pasang ekstensi Live Server. Klik kanan pada file index.html dan pilih "Open with Live Server".
-
-Atau jika menggunakan Node.js (seperti yang terkonfigurasi di package.json):
-
-npm install
-npm start
-
-
-🤝 Jaringan Afiliasi
-
-Feradi WPI
-
-Kawan Jari News
-
-PMBI
-
-PT Dahono Consulting Agency
-
-© 2024 Feradi WPI & Subur Jaya Law Firm. Seluruh Hak Cipta Dilindungi.
+© 2024 Feradi WPI & Subur Jaya Law Firm.  
+Seluruh Hak Cipta Dilindungi.
